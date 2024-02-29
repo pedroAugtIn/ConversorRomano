@@ -1,3 +1,5 @@
+#Conversor de numeral arábico para romano.
+
 Este é um dos primeiros projetos que desenvolvi durante meus estudos de Javascript, apresentando duas funções principais:
 A primeira recebe um número inteiro como entrada e retorna sua representação em algarismos romanos. 
 Ele faz isso usando um mapa que associa algarismos romanos a seus equivalentes em números arábicos. 
