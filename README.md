@@ -1,4 +1,4 @@
-#Conversor de numeral arábico para romano.
+#Conversor de numeral arábico para romano - HTML/CSS/JavaScript
 
 Este é um dos primeiros projetos que desenvolvi durante meus estudos de Javascript, apresentando duas funções principais:
 A primeira recebe um número inteiro como entrada e retorna sua representação em algarismos romanos. 
